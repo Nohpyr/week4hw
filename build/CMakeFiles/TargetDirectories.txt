@@ -1,0 +1,3 @@
+/home/option16/Documents/CV2016/Week4/week4hw/build/CMakeFiles/edit_cache.dir
+/home/option16/Documents/CV2016/Week4/week4hw/build/CMakeFiles/rebuild_cache.dir
+/home/option16/Documents/CV2016/Week4/week4hw/build/CMakeFiles/cv_first.dir
